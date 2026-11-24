@@ -4,10 +4,6 @@ A simple desktop Notepad application built using C# and Windows Forms (WinForms)
 
 This project was developed as a practical exercise to apply Windows Forms controls, events, properties, and file handling.
 
-## Application Preview
-
-![Notepad Application Screenshot](screenshot.png)
-
 ## Features
 
 - New: Create a new text document.
